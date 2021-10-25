@@ -42,7 +42,7 @@ $r = mysqli_fetch_array($result);
                         <div class="main-menu">
                             <nav>
                                 <ul>
-                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="/bs-accounting/index.php">Home</a></li>
                                        <!-- First Tier Drop Down -->
                                        <!-- <ul>
                                             <li><a href="gurgaon.php">Gurgaon</a></li>
